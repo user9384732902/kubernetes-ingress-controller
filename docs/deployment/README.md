@@ -21,7 +21,7 @@ Kubernetes cluster. Here are some guides to get you started:
      - Because of CPU/RAM requirements,
        this does not work in OpenShift Online (free account)
 
-1. [Goolge Kubernetes Engine(GKE)][2]:
+1. [Google Kubernetes Engine(GKE)][2]:
 
    [GKE](https://cloud.google.com/kubernetes-engine/)
    is a managed Kubernetes cluster service.
